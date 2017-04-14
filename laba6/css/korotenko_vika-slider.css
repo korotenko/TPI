@@ -1,0 +1,10 @@
+.ssdisplay > .ssimages
+{
+	position:relative;
+	font-size:0px;
+	transition:left 0.5s;
+}
+.ssdisplay
+{
+	overflow:hidden;
+}
