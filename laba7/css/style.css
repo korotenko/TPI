@@ -1,0 +1,107 @@
+@import "responsive.css";
+header{
+	background: #49C514;
+	border-radius: 6px;
+}
+body { 
+	width:1098px; 
+	margin:0 auto; 
+	text-align: center;	
+	background: #006600;
+	border-radius: 6px;		
+}
+table{
+	font-size: 15pt;
+}
+p {
+	color: #000000; /* Цвет текста */
+	font-family:Arial,Helvetica,sans-serif; /* шрифт текста */
+	font-size: 100%; /* Размер текста */
+}
+h1{
+	color: #226A04; /* Цвет текста */
+	font-family:Arial,Helvetica,sans-serif; /* шрифт текста */
+}
+h2{
+	color: #226A04; /* Цвет текста */
+	font-family:Arial,Helvetica,sans-serif; /* шрифт текста */
+}
+footer {
+	font-weight: bold; /*Полужирный шрифт текста */
+	background: #4C8434;
+	border-radius: 6px;
+}
+#hr { 
+	padding: 0; 
+	margin: 0; 
+	list-style: none; 
+	text-align: center; 
+	display: block; /* добавляем блочность, если необходимо */ 
+	font-size: 0; /* убираем нежелательные отступы у дочерних элементов */ 
+	position: relative; /* Относительное позиционирование */
+	height: 40px; /* Высота блока */
+} 
+#hr li { 
+	padding: 0px; 
+	margin: 0 0px; 
+	display: inline-block; /* позволяем vertical-align выравнивать себя по вертикали */ 
+	vertical-align: middle; /* и выравниваем */ 
+	margin-right: 2px; /* создание отступов для того, чтобы не сливались пункты меню. */
+	font-family: Monotype Corsiva, sans-serif; /* Указание типа шрифта. */
+	font-size: 23px; /* Размер текста в ссылках. */
+}
+#hr li a{
+   padding: 10px 20px;  /* Внутри блочные отступы. */
+   background: #226A04; /* Цвет блоков меню. */
+   color: #49C514; /* Цвет текста в блоках меню. */
+   text-decoration: none; /* Устранение подчёркивания ссылок. */
+}
+#hr li a:hover {
+   background: #49C514; /* Цвет блока при наведении курсора. */
+   color: #226A04;  /* Цвет текста при наведении курсора. */
+   border-bottom: 3px solid #FFFF00; /* Параметры линии внизу */
+   padding-bottom: 10px;
+}
+.active{
+   border-top: 3px solid #FF3300; /* Параметры линии сверху */
+}
+li {
+	text-align: left;
+}
+.span-img {
+	display: inline-block;
+	padding: 15px;
+	width: 612px;
+	bottom: 0px;
+	background: #000000;
+	opacity: 0.70; 
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70);
+	-khtml-opacity: 0.70;
+	-moz-opacity: 0.70;
+	text-align: center;
+	color: #ffffff;
+	font: 16px/21px Tahoma, Geneva, sans-serif;
+	}
+.fon{
+	border-radius: 6px;
+	background: #226A04;
+	background: linear-gradient(#88EB5D, #AFEB95);
+}
+.topbutton {
+	width:50px;
+	border:2px solid #ccc;
+	background:#f7f7f7;
+	text-align:center;
+	padding:2px;
+	position:fixed;
+	bottom:20px;
+	right:20px;
+	cursor:pointer;
+	color:#333;
+	font-family:verdana;
+	font-size:12px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+}
