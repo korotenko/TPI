@@ -1,0 +1,30 @@
+@media print {
+	#hr, footer { 
+		display: none; 
+	}
+	a[href^=http]:after {
+		content:" <" attr(href) ">";
+	}
+	h1, h2{
+		color:black !important;
+		font-family: Times New Roman, Georgia, Palatino !important;
+	}
+	body {
+		font-family: Times New Roman, Georgia, Palatino !important;
+	}
+	span{
+		color:black !important;
+	}
+}
+@page :first{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+@page :left{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+@page :right{
+	margin-left: 50px;
+	margin-right: 50px;
+}

@@ -1,0 +1,1449 @@
+@media	(min-width : 1150px) and (max-width : 1295px){
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	table{
+		font-size: 14pt !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 98.2% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:20px !important;
+		right:20px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media	(min-width : 1000px) and (max-width : 1149px){
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	table{
+		font-size: 12pt !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 97.9% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:20px !important;
+		right:20px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media	(min-width : 920px) and (max-width : 999px){
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	table{
+		font-size: 11pt !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 97.7% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:20px !important;
+		right:20px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media	(min-width : 840px) and (max-width : 919px){
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	table{
+		font-size: 10pt !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 97.5% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:20px !important;
+		right:20px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media	(min-width : 780px) and (max-width : 839px){
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	table{
+		font-size: 9.4pt !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 97.2% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:20px !important;
+		right:20px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media	(min-width : 700px) and (max-width : 779px){
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	table{
+		font-size: 8.5pt !important;
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 97% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:20px !important;
+		right:20px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media	(min-width : 620px) and (max-width : 699px){
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	table{
+		font-size: 7pt !important;
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 96.7% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:20px !important;
+		right:20px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media	(min-width : 560px) and (max-width : 619px){
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	table{
+		font-size: 7pt !important;
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 96.2% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:20px !important;
+		right:20px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media	(min-width : 510px) and (max-width : 559px){
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	table{
+		font-size: 6pt !important;
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 95.8% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:20px !important;
+		right:20px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media	(min-width : 480px) and (max-width : 509px){
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	table{
+		font-size: 6pt !important;
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 95.3% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:20px !important;
+		right:20px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media  (min-width : 400px) and (max-width : 479px){
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	table{
+		font-size: 4.5pt !important;
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 95.1% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:20px !important;
+		right:20px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media  (min-width : 320px) and (max-width : 399px){
+	.mobile {
+		width: 80% !important;
+	}
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	table{
+		font-size: 3pt !important;
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 93.4% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:10px !important;
+		right:10px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
+@media  (max-width : 319px){
+	.mobile {
+		width: 80% !important;
+	}
+	header {
+		background-color: #49C514 !important;
+		border-radius: 6px !important;
+	}
+	body { 
+		width:80% !important; 
+		margin:0 auto !important; 
+		text-align: center !important;	
+		background: #006600 !important;
+		border-radius: 6px !important;		
+	}
+	table{
+		font-size: 2pt !important;
+	}
+	p {
+		color: #000000 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+		font-size: 100% !important; /* Размер текста */
+	}
+	h1{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	h2{
+		color: #226A04 !important; /* Цвет текста */
+		font-family:Arial,Helvetica,sans-serif !important; /* шрифт текста */
+	}
+	footer {
+		font-weight: bold !important; /*Полужирный шрифт текста */
+		background: #4C8434 !important;
+		border-radius: 6px !important;
+	}
+	#hr {
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style-type: none !important;
+        width: 91.7% !important;
+		height: 0% !important;		
+    }
+	#hr li { 
+		padding: 0px !important; 
+		margin: 0 0px !important; 
+		display: block !important; /* позволяем vertical-align выравнивать себя по вертикали */ 
+		vertical-align: middle !important; /* и выравниваем */ 
+		margin-right: 2px !important; /* создание отступов для того, чтобы не сливались пункты меню. */
+		font-family: Monotype Corsiva, sans-serif !important; /* Указание типа шрифта. */
+		font-size: 18px !important; /* Размер текста в ссылках. */
+	}
+    #hr li a {
+		color: #49C514 !important;
+        padding: 5px 10px !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+        display: block !important;
+        width: 100% !important;
+		background: #226A04 !important;
+		text-align: center !important;
+    }
+	
+    #hr li a:hover {
+        background: #49C514 !important; /* Цвет блока при наведении курсора. */
+		color: #226A04 !important;  /* Цвет текста при наведении курсора. */
+		border-bottom: 3px solid #FFFF00 !important; /* Параметры линии внизу */
+		padding-bottom: 10px !important;
+    }
+	.active{
+		border-top: 3px solid #FF3300 !important; /* Параметры линии сверху */
+	}
+	li {
+		text-align: left !important;
+	}
+	span {
+		display: inline-block !important;
+		padding: 1% !important;
+		width: 56.5% !important;
+		bottom: 0px !important;
+		background: #000000 !important;
+		opacity: 0.70 !important; 
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70) !important;
+		-khtml-opacity: 0.70 !important;
+		-moz-opacity: 0.70 !important;
+		text-align: center !important;
+		color: #ffffff !important;
+		font: 9px/15px Tahoma, Geneva, sans-serif !important;
+	}
+	.fon{
+		border-radius: 6px !important;
+		background: #226A04 !important;
+		background: linear-gradient(#88EB5D, #AFEB95) !important;
+	}
+	.topbutton {
+		width:3% !important;
+		border:2px solid #ccc !important;
+		background:#f7f7f7 !important;
+		text-align:center !important;
+		padding:2px !important;
+		position:fixed !important;
+		bottom:5px !important;
+		right:5px !important;
+		cursor:pointer !important;
+		color:#333 !important;
+		font-family:verdana !important;
+		font-size:12px !important;
+		border-radius: 5px !important;
+		-moz-border-radius: 5px !important;
+		-webkit-border-radius: 5px !important;
+		-khtml-border-radius: 5px !important;
+	}
+}
+
